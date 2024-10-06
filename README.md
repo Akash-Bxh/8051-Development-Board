@@ -1,4 +1,4 @@
-# 8051 Development Board: Design and Assembly Guide
+# Building an 8051 Microcontroller Development Board
 Material: KiCAD software, AT895S2, PCB, soldering kit, capacitor, resistor, display, 7-segment, push button, connector, buzzer, Ferric Chloride, Acetone, Fine abrasive sand paper, etc.
 
 An 8051 Development Board is a hardware platform for projects involving the 8051 microcontroller. It includes the microcontroller, clock and reset circuits, power supply, I/O and peripheral interfaces (ADC, DAC), and supports various development tools. Users can write programs in assembly or high-level languages, compile them, and load them onto the board using assemblers and debuggers.
